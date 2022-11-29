@@ -2,6 +2,8 @@
 
 Hi! This is Xenia and here is my Tableau story.
 
+https://public.tableau.com/app/profile/xenia.liu/viz/HW_16694092557430/Story1?publish=yes
+
 I added the link to the Public Workbook to the repository so I can add the analysis to the readme file here. I also wrote a lot of the analysis in the captions, so be sure to read those insights as well!
 
 Analysis:
